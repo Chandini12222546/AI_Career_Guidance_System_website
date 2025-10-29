@@ -1,0 +1,21 @@
+# Ignore Bolt files
+.bolt/
+
+# Node.js dependencies and build
+Frontend/node_modules/
+Frontend/dist/
+
+# Python cache and virtual environments
+Backend/__pycache__/
+Backend/venv/
+Backend/.env
+Backend/*.pyc
+
+# System / IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
